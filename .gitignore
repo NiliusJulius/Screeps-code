@@ -1,3 +1,6 @@
+#screeps config
+.screeps.json
+
 # Logs
 logs
 *.log
